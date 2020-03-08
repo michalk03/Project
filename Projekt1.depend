@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1567525563 source:c:\users\micha\onedrive\pulpit\code blocks\projekt1\main.cpp
+	<iostream>
+
+1583690799 source:c:\users\micha\onedrive\pulpit\programowanie\code blocks\projekt1\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1583690799 source:c:\users\micha\onedrive\pulpit\projekt1\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
